@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+python-dotenv
+openai==0.28
+langchain
+faiss-cpu
