@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# virtual env
+.venv/
+
+# secrets
+.env
+
+# OS
+.DS_Store
+
+# model/cache
+.cache/
